@@ -1,0 +1,6 @@
+--2022-01-27 08:33:05--  https://download.maxmind.com/app/geoip_download_by_token?edition_id=GeoLite2-City
+Resolving download.maxmind.com (download.maxmind.com)... 104.16.37.47, 104.16.38.47, 2606:4700::6810:262f, ...
+Connecting to download.maxmind.com (download.maxmind.com)|104.16.37.47|:443... connected.
+HTTP request sent, awaiting response... 401 Unauthorized
+
+Username/Password Authentication Failed.
