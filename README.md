@@ -1,6 +1,7 @@
 # GeoIP
 GeoIP is IP to Geographical Location as a service
 This database is free-to-use.
+The code is MIT Licensed
 ## Usage
 ## Install dependencies.
 
